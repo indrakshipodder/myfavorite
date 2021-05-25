@@ -1,0 +1,12 @@
+img {
+    transition: tranform .2s;
+    border: 10px solid #AAAAAA;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+#welcome {
+    background: linear-gradient(#FF4E50 0%, #F9D423 100%);
+}
